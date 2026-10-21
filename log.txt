@@ -1,125 +1,117 @@
 [user_orchestrator.py]: Starting
 [user_orchestrator.py]: Clearing existing items from items.rss
-[user_orchestrator.py]: user.sff missing fan_id for user dhalgrenkidd. Finding automatically...
-[user_orchestrator.py]: writing fan_ids to user.ssf for all users
 [user_orchestrator.py]: Prepping SSF files based on current users...
 [following_parser:dhalgrenkidd]: Found 26 links...
-[following_parser:dhalgrenkidd]: Removed 1 artists that dhalgrenkidd no longer follows
-[following_parser:dhalgrenkidd]: Found 26 new following items
+[following_parser:dhalgrenkidd]: Removed 2 artists that dhalgrenkidd no longer follows
+[following_parser:dhalgrenkidd]: Found 0 new following items
 [following_parser:dhalgrenkidd]: Exited successfully
 [collection_parser:dhalgrenkidd]: Found 18 links...
-[collection_parser:dhalgrenkidd]: Found 18 new collection items
+[collection_parser:dhalgrenkidd]: Found 0 new collection items
 [collection_parser:dhalgrenkidd]: Exited successfully
 [wishlist_parser:dhalgrenkidd]: Found 14 links...
-[wishlist_parser:dhalgrenkidd]: Found 14 new wishlist items
+[wishlist_parser:dhalgrenkidd]: Found 0 new wishlist items
 [wishlist_parser:dhalgrenkidd]: Exited successfully
-[release_parser:dhalgrenkidd]: Pinging bandcamp release feed for user dhalgrenkidd [NEW: https://timreaper.bandcamp.com/music]
-[release_parser:dhalgrenkidd]: Found 16 links...
-[release_parser:dhalgrenkidd]: Found 16 new release items
-[release_parser:dhalgrenkidd]: Exited successfully
-[release_parser:dhalgrenkidd]: Pinging bandcamp release feed for user dhalgrenkidd [NEW: https://soulox.bandcamp.com/music]
+[release_parser:dhalgrenkidd]: Pinging bandcamp release feed for user dhalgrenkidd [https://soulox.bandcamp.com/music]
 [release_parser:dhalgrenkidd]: Found 20 links...
-[release_parser:dhalgrenkidd]: Found 20 new release items
+[release_parser:dhalgrenkidd]: Found 0 new release items
 [release_parser:dhalgrenkidd]: Exited successfully
-[release_parser:dhalgrenkidd]: Pinging bandcamp release feed for user dhalgrenkidd [NEW: https://sullyuk.bandcamp.com/music]
+[release_parser:dhalgrenkidd]: Pinging bandcamp release feed for user dhalgrenkidd [https://sullyuk.bandcamp.com/music]
 [release_parser:dhalgrenkidd]: Found 16 links...
-[release_parser:dhalgrenkidd]: Found 16 new release items
+[release_parser:dhalgrenkidd]: Found 0 new release items
 [release_parser:dhalgrenkidd]: Exited successfully
-[release_parser:dhalgrenkidd]: Pinging bandcamp release feed for user dhalgrenkidd [NEW: https://sawteeth.bandcamp.com/music]
+[release_parser:dhalgrenkidd]: Pinging bandcamp release feed for user dhalgrenkidd [https://sawteeth.bandcamp.com/music]
 [release_parser:dhalgrenkidd]: Found 16 links...
-[release_parser:dhalgrenkidd]: Found 16 new release items
+[release_parser:dhalgrenkidd]: Found 0 new release items
 [release_parser:dhalgrenkidd]: Exited successfully
-[release_parser:dhalgrenkidd]: Pinging bandcamp release feed for user dhalgrenkidd [NEW: https://astrophonica.bandcamp.com/music]
+[release_parser:dhalgrenkidd]: Pinging bandcamp release feed for user dhalgrenkidd [https://astrophonica.bandcamp.com/music]
 [release_parser:dhalgrenkidd]: Found 16 links...
-[release_parser:dhalgrenkidd]: Found 16 new release items
+[release_parser:dhalgrenkidd]: Found 0 new release items
 [release_parser:dhalgrenkidd]: Exited successfully
-[release_parser:dhalgrenkidd]: Pinging bandcamp release feed for user dhalgrenkidd [NEW: https://fracture.bandcamp.com/music]
+[release_parser:dhalgrenkidd]: Pinging bandcamp release feed for user dhalgrenkidd [https://fracture.bandcamp.com/music]
 [release_parser:dhalgrenkidd]: Found 16 links...
-[release_parser:dhalgrenkidd]: Found 16 new release items
+[release_parser:dhalgrenkidd]: Found 0 new release items
 [release_parser:dhalgrenkidd]: Exited successfully
-[release_parser:dhalgrenkidd]: Pinging bandcamp release feed for user dhalgrenkidd [NEW: https://auxiliary.bandcamp.com/music]
+[release_parser:dhalgrenkidd]: Pinging bandcamp release feed for user dhalgrenkidd [https://auxiliary.bandcamp.com/music]
 [release_parser:dhalgrenkidd]: Found 16 links...
-[release_parser:dhalgrenkidd]: Found 16 new release items
+[release_parser:dhalgrenkidd]: Found 0 new release items
 [release_parser:dhalgrenkidd]: Exited successfully
-[release_parser:dhalgrenkidd]: Pinging bandcamp release feed for user dhalgrenkidd [NEW: https://n4records.bandcamp.com/music]
+[release_parser:dhalgrenkidd]: Pinging bandcamp release feed for user dhalgrenkidd [https://n4records.bandcamp.com/music]
 [release_parser:dhalgrenkidd]: Found 16 links...
-[release_parser:dhalgrenkidd]: Found 16 new release items
+[release_parser:dhalgrenkidd]: Found 0 new release items
 [release_parser:dhalgrenkidd]: Exited successfully
-[release_parser:dhalgrenkidd]: Pinging bandcamp release feed for user dhalgrenkidd [NEW: https://8205.bandcamp.com/music]
+[release_parser:dhalgrenkidd]: Pinging bandcamp release feed for user dhalgrenkidd [https://8205.bandcamp.com/music]
 [release_parser:dhalgrenkidd]: Found 16 links...
-[release_parser:dhalgrenkidd]: Found 16 new release items
+[release_parser:dhalgrenkidd]: Found 0 new release items
 [release_parser:dhalgrenkidd]: Exited successfully
-[release_parser:dhalgrenkidd]: Pinging bandcamp release feed for user dhalgrenkidd [NEW: https://infraredrecords.bandcamp.com/music]
+[release_parser:dhalgrenkidd]: Pinging bandcamp release feed for user dhalgrenkidd [https://infraredrecords.bandcamp.com/music]
 [release_parser:dhalgrenkidd]: Found 16 links...
-[release_parser:dhalgrenkidd]: Found 16 new release items
+[release_parser:dhalgrenkidd]: Found 0 new release items
 [release_parser:dhalgrenkidd]: Exited successfully
-[release_parser:dhalgrenkidd]: Pinging bandcamp release feed for user dhalgrenkidd [NEW: https://akobeatz.bandcamp.com/music]
+[release_parser:dhalgrenkidd]: Pinging bandcamp release feed for user dhalgrenkidd [https://akobeatz.bandcamp.com/music]
 [release_parser:dhalgrenkidd]: Found 16 links...
-[release_parser:dhalgrenkidd]: Found 16 new release items
+[release_parser:dhalgrenkidd]: Found 0 new release items
 [release_parser:dhalgrenkidd]: Exited successfully
-[release_parser:dhalgrenkidd]: Pinging bandcamp release feed for user dhalgrenkidd [NEW: https://submerse.bandcamp.com/music]
+[release_parser:dhalgrenkidd]: Pinging bandcamp release feed for user dhalgrenkidd [https://submerse.bandcamp.com/music]
 [release_parser:dhalgrenkidd]: Found 13 links...
-[release_parser:dhalgrenkidd]: Found 13 new release items
+[release_parser:dhalgrenkidd]: Found 0 new release items
 [release_parser:dhalgrenkidd]: Exited successfully
-[release_parser:dhalgrenkidd]: Pinging bandcamp release feed for user dhalgrenkidd [NEW: https://asc77.bandcamp.com/music]
+[release_parser:dhalgrenkidd]: Pinging bandcamp release feed for user dhalgrenkidd [https://asc77.bandcamp.com/music]
 [release_parser:dhalgrenkidd]: Found 16 links...
-[release_parser:dhalgrenkidd]: Found 16 new release items
+[release_parser:dhalgrenkidd]: Found 0 new release items
 [release_parser:dhalgrenkidd]: Exited successfully
-[release_parser:dhalgrenkidd]: Pinging bandcamp release feed for user dhalgrenkidd [NEW: https://mindgamesmusic.bandcamp.com/music]
+[release_parser:dhalgrenkidd]: Pinging bandcamp release feed for user dhalgrenkidd [https://mindgamesmusic.bandcamp.com/music]
 [release_parser:dhalgrenkidd]: Found 14 links...
-[release_parser:dhalgrenkidd]: Found 14 new release items
+[release_parser:dhalgrenkidd]: Found 0 new release items
 [release_parser:dhalgrenkidd]: Exited successfully
-[release_parser:dhalgrenkidd]: Pinging bandcamp release feed for user dhalgrenkidd [NEW: https://brazenrecords.bandcamp.com/music]
+[release_parser:dhalgrenkidd]: Pinging bandcamp release feed for user dhalgrenkidd [https://brazenrecords.bandcamp.com/music]
 [release_parser:dhalgrenkidd]: Found 10 links...
-[release_parser:dhalgrenkidd]: Found 10 new release items
+[release_parser:dhalgrenkidd]: Found 0 new release items
 [release_parser:dhalgrenkidd]: Exited successfully
-[release_parser:dhalgrenkidd]: Pinging bandcamp release feed for user dhalgrenkidd [NEW: https://parallaxrecordings.bandcamp.com/music]
+[release_parser:dhalgrenkidd]: Pinging bandcamp release feed for user dhalgrenkidd [https://parallaxrecordings.bandcamp.com/music]
 [release_parser:dhalgrenkidd]: Found 16 links...
-[release_parser:dhalgrenkidd]: Found 16 new release items
+[release_parser:dhalgrenkidd]: Found 0 new release items
 [release_parser:dhalgrenkidd]: Exited successfully
-[release_parser:dhalgrenkidd]: Pinging bandcamp release feed for user dhalgrenkidd [NEW: https://over-shadow.bandcamp.com/music]
+[release_parser:dhalgrenkidd]: Pinging bandcamp release feed for user dhalgrenkidd [https://over-shadow.bandcamp.com/music]
 [release_parser:dhalgrenkidd]: Found 16 links...
-[release_parser:dhalgrenkidd]: Found 16 new release items
+[release_parser:dhalgrenkidd]: Found 0 new release items
 [release_parser:dhalgrenkidd]: Exited successfully
-[release_parser:dhalgrenkidd]: Pinging bandcamp release feed for user dhalgrenkidd [NEW: https://kidlib.bandcamp.com/music]
+[release_parser:dhalgrenkidd]: Pinging bandcamp release feed for user dhalgrenkidd [https://kidlib.bandcamp.com/music]
 [release_parser:dhalgrenkidd]: Found 16 links...
-[release_parser:dhalgrenkidd]: Found 16 new release items
+[release_parser:dhalgrenkidd]: Found 0 new release items
 [release_parser:dhalgrenkidd]: Exited successfully
-[release_parser:dhalgrenkidd]: Pinging bandcamp release feed for user dhalgrenkidd [NEW: https://ruffntuff.bandcamp.com/music]
+[release_parser:dhalgrenkidd]: Pinging bandcamp release feed for user dhalgrenkidd [https://ruffntuff.bandcamp.com/music]
 [release_parser:dhalgrenkidd]: Found 8 links...
-[release_parser:dhalgrenkidd]: Found 8 new release items
+[release_parser:dhalgrenkidd]: Found 0 new release items
 [release_parser:dhalgrenkidd]: Exited successfully
-[release_parser:dhalgrenkidd]: Pinging bandcamp release feed for user dhalgrenkidd [NEW: https://greenbaywax.bandcamp.com/music]
+[release_parser:dhalgrenkidd]: Pinging bandcamp release feed for user dhalgrenkidd [https://greenbaywax.bandcamp.com/music]
 [release_parser:dhalgrenkidd]: Found 16 links...
-[release_parser:dhalgrenkidd]: Found 16 new release items
+[release_parser:dhalgrenkidd]: Found 0 new release items
 [release_parser:dhalgrenkidd]: Exited successfully
-[release_parser:dhalgrenkidd]: Pinging bandcamp release feed for user dhalgrenkidd [NEW: https://myor.bandcamp.com/music]
+[release_parser:dhalgrenkidd]: Pinging bandcamp release feed for user dhalgrenkidd [https://myor.bandcamp.com/music]
 [release_parser:dhalgrenkidd]: Found 16 links...
-[release_parser:dhalgrenkidd]: Found 16 new release items
+[release_parser:dhalgrenkidd]: Found 0 new release items
 [release_parser:dhalgrenkidd]: Exited successfully
-[release_parser:dhalgrenkidd]: Pinging bandcamp release feed for user dhalgrenkidd [NEW: https://westernlore.bandcamp.com/music]
+[release_parser:dhalgrenkidd]: Pinging bandcamp release feed for user dhalgrenkidd [https://westernlore.bandcamp.com/music]
 [release_parser:dhalgrenkidd]: Found 16 links...
-[release_parser:dhalgrenkidd]: Found 16 new release items
+[release_parser:dhalgrenkidd]: Found 0 new release items
 [release_parser:dhalgrenkidd]: Exited successfully
-[release_parser:dhalgrenkidd]: Pinging bandcamp release feed for user dhalgrenkidd [NEW: https://globexcorp.bandcamp.com/music]
+[release_parser:dhalgrenkidd]: Pinging bandcamp release feed for user dhalgrenkidd [https://globexcorp.bandcamp.com/music]
 [release_parser:dhalgrenkidd]: Found 14 links...
-[release_parser:dhalgrenkidd]: Found 14 new release items
+[release_parser:dhalgrenkidd]: Found 0 new release items
 [release_parser:dhalgrenkidd]: Exited successfully
-[release_parser:dhalgrenkidd]: Pinging bandcamp release feed for user dhalgrenkidd [NEW: https://deepjungle.bandcamp.com/music]
+[release_parser:dhalgrenkidd]: Pinging bandcamp release feed for user dhalgrenkidd [https://deepjungle.bandcamp.com/music]
 [release_parser:dhalgrenkidd]: Found 16 links...
-[release_parser:dhalgrenkidd]: Found 16 new release items
+[release_parser:dhalgrenkidd]: Found 0 new release items
 [release_parser:dhalgrenkidd]: Exited successfully
-[release_parser:dhalgrenkidd]: Pinging bandcamp release feed for user dhalgrenkidd [NEW: https://futureretrolondon.bandcamp.com/music]
+[release_parser:dhalgrenkidd]: Pinging bandcamp release feed for user dhalgrenkidd [https://futureretrolondon.bandcamp.com/music]
 [release_parser:dhalgrenkidd]: Found 16 links...
-[release_parser:dhalgrenkidd]: Found 16 new release items
+[release_parser:dhalgrenkidd]: Found 0 new release items
 [release_parser:dhalgrenkidd]: Exited successfully
-[release_parser:dhalgrenkidd]: Pinging bandcamp release feed for user dhalgrenkidd [NEW: https://trevorbird.bandcamp.com/music]
+[release_parser:dhalgrenkidd]: Pinging bandcamp release feed for user dhalgrenkidd [https://trevorbird.bandcamp.com/music]
 [release_parser:dhalgrenkidd]: Found 1 links...
-[release_parser:dhalgrenkidd]: Found 1 new release items
+[release_parser:dhalgrenkidd]: Found 0 new release items
 [release_parser:dhalgrenkidd]: Exited successfully
-[rss_aggregator.py:unknown user...]: Created item Collection update for **dhalgrenkidd**
-[rss_aggregator.py:unknown user...]: Created item Following update for **dhalgrenkidd**
-[rss_aggregator.py:unknown user...]: Created item Wishlist update for **dhalgrenkidd**
-[rss_aggregator.py:dhalgrenkidd]: updating items.rss with 3 updates for this user
-[user_orchestrator.py]: Updating final.rss at 2026-10-21 00:27:10.663927
+[rss_aggregator.py:dhalgrenkidd]: No updates detected for this user
+[rss_aggregator.py:dhalgrenkidd]: Exited successfully
+[user_orchestrator.py]: No updates found for final.rss
 [user_orchestrator.py]: Exited successfully
