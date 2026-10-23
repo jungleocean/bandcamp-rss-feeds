@@ -93,7 +93,7 @@
 [release_parser:dhalgrenkidd]: Exited successfully
 [release_parser:dhalgrenkidd]: Pinging bandcamp release feed for user dhalgrenkidd [https://westernlore.bandcamp.com/music]
 [release_parser:dhalgrenkidd]: Found 16 links...
-[release_parser:dhalgrenkidd]: Found 0 new release items
+[release_parser:dhalgrenkidd]: Found 1 new release items
 [release_parser:dhalgrenkidd]: Exited successfully
 [release_parser:dhalgrenkidd]: Pinging bandcamp release feed for user dhalgrenkidd [https://globexcorp.bandcamp.com/music]
 [release_parser:dhalgrenkidd]: Found 14 links...
@@ -111,7 +111,7 @@
 [release_parser:dhalgrenkidd]: Found 1 links...
 [release_parser:dhalgrenkidd]: Found 0 new release items
 [release_parser:dhalgrenkidd]: Exited successfully
-[rss_aggregator.py:dhalgrenkidd]: No updates detected for this user
-[rss_aggregator.py:dhalgrenkidd]: Exited successfully
-[user_orchestrator.py]: No updates found for final.rss
+[rss_aggregator.py:unknown user...]: Created item Release update for **dhalgrenkidd**
+[rss_aggregator.py:dhalgrenkidd]: updating items.rss with 1 updates for this user
+[user_orchestrator.py]: Updating final.rss at 2026-10-23 15:56:55.288108
 [user_orchestrator.py]: Exited successfully
